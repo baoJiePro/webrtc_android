@@ -1,2 +1,5 @@
 include ':app', ':rtc-chat'
 include ':libwebrtc'
+include ':longrtc'
+include ':base:base_lib'
+include ':base:network_lib'

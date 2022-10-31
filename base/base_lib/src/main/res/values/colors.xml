@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+   100% — FF
+   95% — F2
+   90% — E6
+   85% — D9
+   80% — CC
+   75% — BF
+   70% — B3
+   65% — A6
+   60% — 99
+   55% — 8C
+   50% — 80
+   45% — 73
+   40% — 66
+   35% — 59
+   30% — 4D
+   25% — 40
+   20% — 33
+   15% — 26
+   10% — 1A
+   5% — 0D
+   0% — 00
+   -->
+
+    <color name="qd_base_title_bg">#FFFFFF</color>
+
+    <color name="qd_base_trans">#00000000</color>
+    <color name="qd_base_99c9c9c9">#99C9C9C9</color>
+
+
+
+    <color name="qd_base_color_99000000">#99000000</color>
+    <color name="qd_base_color_44000000">#44000000</color>
+
+
+    <color name="qd_base_color_ffea00">#ffea00</color>
+    <color name="qd_base_color_00bb44">#00bb44</color>
+    <color name="qd_base_color_34b5fc">#34b5fc</color>
+    <color name="qd_base_color_f56070">#f56070</color>
+    <color name="qd_base_color_28b4fc">#28b4fc</color>
+    <color name="qd_base_color_28b4ff">#28b4ff</color>
+    <color name="qd_base_color_23bb9c">#23bb9c</color>
+    <color name="qd_base_color_fdb65e">#fdb65e</color>
+    <color name="qd_base_color_fd65a5">#fd65a5</color>
+    <color name="qd_base_color_ffc6a6">#FFC6A6</color>
+    <color name="qd_base_color_5c3410">#5c3410</color>
+    <color name="qd_base_color_0d4d8e">#0d4d8e</color>
+    <color name="qd_base_color_fffcba">#fffcba</color>
+    <color name="qd_base_color_fafafa">#fafafa</color>
+    <color name="qd_base_color_ff0000">#FF0000</color>
+    <color name="qd_base_color_f2f5f8">#f2f5f8</color>
+    <color name="qd_base_color_ebe7e4">#ebe7e4</color>
+    <color name="qd_base_color_f4f6fa">#f4f6fa</color>
+    <color name="qd_base_color_e8e9ed">#e8e9ed</color>
+    <color name="qd_base_color_00aaff">#00aaff</color>
+    <color name="qd_base_color_e91541">#e91541</color>
+    <color name="qd_base_color_45ce98">#45ce98</color>
+    <color name="qd_base_color_ffffff">#ffffff</color>
+    <color name="qd_base_color_d1d5da">#d1d5da</color>
+    <color name="qd_base_color_f2f2f2">#f2f2f2</color>
+    <color name="qd_base_color_000000">#000000</color>
+    <color name="qd_base_color_00b1da">#00b1da</color>
+    <color name="qd_base_color_ff5555">#ff5555</color>
+    <color name="qd_base_color_fef500">#fef500</color>
+    <color name="qd_base_color_292F3D">#292F3D</color>
+    <color name="qd_base_color_8E929D">#8E929D</color>
+    <color name="qd_base_color_FF6F21">#FF6F21</color>
+    <color name="qd_base_color_F35050">#F35050</color>
+    <color name="qd_base_color_888888">#888888</color>
+    <color name="qd_base_color_222222">#222222</color>
+    <color name="qd_base_color_e4e4e4">#e4e4e4</color>
+    <color name="qd_base_color_fff4ee">#fff4ee</color>
+    <color name="qd_base_color_fff6f1">#fff6f1</color>
+    <color name="qd_base_color_fffdcd">#fffdcd</color>
+    <color name="qd_base_color_ffe0d6">#ffe0d6</color>
+    <color name="qd_base_color_edeced">#edeced</color>
+    <color name="qd_base_color_f5f5f5">#f5f5f5</color>
+    <color name="qd_base_color_f8f8f8">#f8f8f8</color>
+    <color name="qd_base_color_dddddd">#dddddd</color>
+    <color name="qd_base_color_dadada">#dadada</color>
+    <color name="qd_base_color_aaaaaa">#aaaaaa</color>
+    <color name="qd_base_color_333333">#333333</color>
+    <color name="qd_base_color_eeeeee">#eeeeee</color>
+    <color name="qd_base_color_e1e3e4">#e1e3e4</color>
+    <color name="qd_base_color_e7443f">#e7443f</color>
+    <color name="qd_base_color_f9f9f9">#f9f9f9</color>
+    <color name="qd_base_color_b2b2b2">#b2b2b2</color>
+    <color name="qd_base_color_bfbfbf">#bfbfbf</color>
+    <color name="qd_base_color_f45051">#f45051</color>
+    <color name="qd_base_color_fe6f21">#fe6f21</color>
+    <color name="qd_base_color_555555">#555555</color>
+    <color name="qd_base_color_5cc18b">#5cc18b</color>
+    <color name="qd_base_color_f2f4f6">#f2f4f6</color>
+    <color name="qd_base_color_c8c8c8">#c8c8c8</color>
+    <color name="qd_base_color_c2c2c2">#c2c2c2</color>
+    <color name="qd_base_color_cccccc">#cccccc</color>
+    <color name="qd_base_color_ffa72a">#ffa72a</color>
+    <color name="qd_base_color_666666">#666666</color>
+    <color name="qd_base_color_ea5e68">#ea5e68</color>
+    <color name="qd_base_color_dfdfdf">#dfdfdf</color>
+    <color name="qd_base_color_d6d6d6">#d6d6d6</color>
+    <color name="qd_base_color_fc6f21">#fc6f21</color>
+    <color name="qd_base_color_fefefe">#fefefe</color>
+    <color name="qd_base_color_b5b5b5">#b5b5b5</color>
+    <color name="qd_base_color_fdfdfd">#fdfdfd</color>
+    <color name="qd_base_color_fdbc20">#fdbc20</color>
+    <color name="qd_base_color_ff5a58">#ff5a58</color>
+    <color name="qd_base_color_f4f4f4">#f4f4f4</color>
+    <color name="qd_base_color_ff6863">#ff6863</color>
+    <color name="qd_base_color_ff6666">#ff6666</color>
+    <color name="qd_base_color_ff6559">#ff6559</color>
+    <color name="qd_base_color_5788d9">#5788d9</color>
+    <color name="qd_base_color_ffaf00">#ffaf00</color>
+    <color name="qd_base_color_1ed296">#1ed296</color>
+    <color name="qd_base_color_8c87ff">#8c87ff</color>
+    <color name="qd_base_color_272523">#272523</color>
+    <color name="qd_base_color_f1f1f1">#f1f1f1</color>
+    <color name="qd_base_color_fbfbfb">#fbfbfb</color>
+    <color name="qd_base_color_e3e3e3">#e3e3e3</color>
+    <color name="qd_base_color_91AFE4">#91AFE4</color>
+    <color name="qd_base_color_E83F40">#E83F40</color>
+    <color name="qd_base_color_F2F2F2">#f2f2f2</color>
+    <color name="qd_base_color_ff3824">#FF3824</color>
+    <color name="qd_base_color_151515">#151515</color>
+    <color name="qd_base_color_FF5F00">#FF5F00</color>
+    <color name="qd_base_color_FF9D19">#FF9D19</color>
+    <color name="qd_base_color_252525">#252525</color>
+    <color name="qd_base_color_3F4554">#3F4554</color>
+    <color name="qd_base_color_F1F4F4">#F1F4F4</color>
+    <color name="qd_base_color_3DC235">#3DC235</color>
+    <color name="qd_base_color_FEF5E7">#FEF5E7</color>
+    <color name="qd_base_color_FB6353">#FB6353</color>
+    <color name="qd_base_color_16A7FE">#16A7FE</color>
+    <color name="qd_base_color_FFF9F0">#FFF9F0</color>
+    <color name="qd_base_color_BBBBBB">#BBBBBB</color>
+    <color name="qd_base_color_F1F2F6">#F1F2F6</color>
+    <color name="qd_base_color_676A89">#676A89</color>
+    <color name="qd_base_color_FFDB9F">#FFDB9F</color>
+    <color name="qd_base_color_E2ECF8">#E2ECF8</color>
+    <color name="qd_base_color_E1E1E1">#E1E1E1</color>
+    <color name="qd_base_color_E8E8E8">#E8E8E8</color>
+    <color name="qd_base_color_EFD170">#EFD170</color>
+    <color name="qd_base_color_ED9D46">#ED9D46</color>
+    <color name="qd_base_color_FFB49F">#FFB49F</color>
+    <color name="qd_base_color_FF9962">#FF9962</color>
+    <color name="qd_base_color_B1C2FF">#B1C2FF</color>
+    <color name="qd_base_color_7B8DFF">#7B8DFF</color>
+    <color name="qd_base_color_EBEBEB">#EBEBEB</color>
+    <color name="qd_base_color_D06B00">#D06B00</color>
+    <color name="qd_base_color_354052">#354052</color>
+    <color name="qd_base_color_FF6603">#FF6603</color>
+    <color name="qd_base_color_FFF0F1">#FFF0F1</color>
+    <color name="qd_base_color_FFDDA4">#FFDDA4</color>
+    <color name="qd_base_color_F28300">#F28300</color>
+    <color name="qd_base_color_E60000">#E60000</color>
+    <color name="qd_base_color_cf1210">#CF1210</color>
+    <color name="qd_base_color_FFFDED">#FFFDED</color>
+    <color name="qd_base_color_999999">#999999</color>
+    <color name="qd_base_color_0084FF">#0084FF</color>
+    <color name="qd_base_color_f0f0f0">#f0f0f0</color>
+    <color name="qd_base_color_F2F4F7">#F2F4F7</color>
+    <color name="qd_base_color_0B1D32">#0B1D32</color>
+    <color name="qd_base_color_788596">#788596</color>
+    <color name="qd_base_color_E0E4EB">#E0E4EB</color>
+    <color name="qd_base_color_D8D8D8">#D8D8D8</color>
+    <color name="qd_base_color_ff5a32">#ff5a32</color>
+    <color name="qd_base_color_FFFAD5">#FFFAD5</color>
+    <color name="qd_base_color_fd4a13">#fd4a13</color>
+    <color name="qd_base_color_FDA413">#FDA413</color>
+    <color name="qd_base_color_40FDA413">#40FDA413</color>
+    <color name="qd_base_color_40E0E4EB">#40E0E4EB</color>
+    <color name="qd_base_color_858E98">#858E98</color>
+    <color name="qd_base_color_D52E34">#D52E34</color>
+    <color name="qd_base_color_1AD52E34">#1AD52E34</color>
+    <color name="qd_base_color_DFE2E4">#DFE2E4</color>
+    <color name="qd_base_color_FF7940">#FF7940</color>
+    <color name="qd_base_color_C0C5CA">#C0C5CA</color>
+    <color name="qd_base_color_9DA5AD">#9DA5AD</color>
+    <color name="qd_base_color_485666">#485666</color>
+    <color name="qd_base_color_F7F8F8">#F7F8F8</color>
+    <color name="qd_base_color_ECEDEF">#ECEDEF</color>
+    <color name="qd_base_color_3311B067">#3311B067</color>
+    <color name="qd_base_color_11B067">#11B067</color>
+    <color name="qd_base_color_33FDA413">#33FDA413</color>
+    <color name="qd_base_color_E0E0E0">#E0E0E0</color>
+    <color name="qd_base_color_FFCBA">#FFFCBA</color>
+    <color name="qd_base_color_99FDA413">#99FDA413</color>
+    <color name="qd_base_color_1A0084FF">#1A0084FF</color>
+    <color name="qd_base_color_D5E234">#D5E234</color>
+    <color name="qd_base_color_FB6581">#FB6581</color>
+    <color name="qd_base_color_F57D35">#F57D35</color>
+    <color name="qd_base_color_EE4700">#EE4700</color>
+    <color name="qd_base_color_53575E">#53575E</color>
+    <color name="qd_base_color_D0000000">#0D000000</color>
+    <color name="qd_base_color_739EF0">#739EF0</color>
+    <color name="qd_base_color_66000000">#66000000</color>
+    <color name="qd_base_color_10_000000">#1A000000</color>
+    <color name="qd_base_color_B2000000">#B2000000</color>
+    <color name="qd_base_color_FFF7F8F8">#FFF7F8F8</color>
+    <color name="qd_base_color_243b4a74">#243b4a74</color>
+    <color name="qd_base_color_F5A635">#F5A635</color>
+    <!-- <color name="c7">#E3E3E3</color>-->
+
+    <!-- <color name="color_ffffff">#ffffff</color>-->
+    <!-- <color name="c4">#666666</color>-->
+    <!--<color name="qd_base_trans">#00000000</color>-->
+    <!-- <color name="c5">#999999</color>-->
+    <color name="qd_base_white">#FFFFFF</color>
+    <color name="qd_base_divider_line">#FFDFE2E4</color>
+    <color name="qd_base_c_555555">#555555</color>
+    <!-- <color name="c2">#FFFFFF</color>-->
+    <!--<color name="c15">#45B7F5</color>-->
+    <!--<color name="c18">#D9F2FF</color>-->
+    <!--<color name="user_identity_yellow_bg">#FFF2DC</color>-->
+
+    <color name="qd_base_image_FF8A19">#FF8A19</color>
+</resources>
